@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Demogit
 {
@@ -10,8 +6,8 @@ namespace Demogit
     {
         static void Main(string[] args)
         {
-            // Ceci est un commentaire
-            Console.WriteLine("Hello World!");
+            // Valider
+            Console.WriteLine("Bonjour Laugane!");
         }
     }
 }
