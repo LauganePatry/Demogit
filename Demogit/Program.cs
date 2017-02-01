@@ -8,6 +8,7 @@ namespace Demogit
         {
             // Dank meme incoming, be careful
             // hello my name is uvuvwevwevwe onyentenyevwe ugwemubwem ossas
+            // ferme ta yeule
             Console.WriteLine("Bonjour Laugane!");
         }
     }
