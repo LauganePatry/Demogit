@@ -6,7 +6,7 @@ namespace Demogit
     {
         static void Main(string[] args)
         {
-            // Valider
+            // Valider, je valide
             Console.WriteLine("Bonjour Laugane!");
         }
     }
